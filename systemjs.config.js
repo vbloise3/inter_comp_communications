@@ -20,7 +20,7 @@ System.config({
         }
     },
     packages: {
-        'app'                              : {main: 'projection/ng-content-selector', defaultExtension: 'ts'},
+        'app'                              : {main: 'child_api/exposing-child-api', defaultExtension: 'ts'},
         'rxjs'                             : {main: 'Rx'},
         '@angular/core'                    : {main: 'core.umd.min.js'},
         '@angular/common'                  : {main: 'common.umd.min.js'},
